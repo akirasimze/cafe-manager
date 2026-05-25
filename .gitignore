@@ -1,0 +1,6 @@
+.env
+google-credentials.json
+cafe.db
+__pycache__/
+*.pyc
+.venv/
